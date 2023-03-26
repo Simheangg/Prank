@@ -1,0 +1,18 @@
+button{
+    align-items: center;
+    padding: 50px;
+    cursor: pointer;
+    background-color: rgb(132, 146, 137);
+    border-radius: 20px;
+}
+.head a{
+    color: rgb(53, 10, 173);
+    text-decoration: none;
+    font-size: 20px;
+}
+button:hover{
+    background-color: blueviolet;
+}
+.head a:hover{
+    color: aliceblue;
+}
